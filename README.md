@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning JavaScript and React;
 - ⚡ Fun fact: I'm passionate about sustainability, travelling and cooking.
 
- <div>
+ <div float=left>
   <a href="https://github.com/flaviahotts">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=flaviahotts&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviahotts&layout=compact&langs_count=16&theme=radical"/>

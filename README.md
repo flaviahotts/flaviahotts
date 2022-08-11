@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Flavia 👋
 
-I'm Flavia, a tech enthusiast who loves to learn about new things 🌱👩🏻‍💻❤️
 
 - 🔭 I’m currently working on personal projects;
 - 🌱 I’m currently learning JavaScript and React;

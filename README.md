@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Flavia 👋
 
 
 - 🔭 I’m currently working on personal projects;

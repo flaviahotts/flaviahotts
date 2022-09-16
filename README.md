@@ -3,8 +3,7 @@
 
 - 🔭 I’m currently working on personal projects;
 - 🌱 I’m currently learning JavaScript and React;
-- ⚡ Fun fact: I'm passionate about sustainability, travelling and cooking.
-
+- ⚡ Fun fact: I'm passionate about nature, technology, arts, cooking and travelling.
  <div>
   <a href="https://github.com/flaviahotts">
   <img height="170em" width= "400" src="https://github-readme-stats.vercel.app/api?username=flaviahotts&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>

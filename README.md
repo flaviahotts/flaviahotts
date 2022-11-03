@@ -1,8 +1,9 @@
 ### Hi there, I'm Flavia 👋
 
 
-- 🔭 I’m currently working on personal projects;
-- 🌱 I’m currently learning JavaScript and React;
+- 🔭 Working on personal projects;
+- 🧡 Voluntering as Frontend Developer at<a href="https://www.crowdfrica.org">;
+- 🌱 Currently learning JavaScript and React;
 - ⚡ Fun fact: I'm passionate about nature, technology, arts, cooking and travelling.
  <div>
   <a href="https://github.com/flaviahotts">

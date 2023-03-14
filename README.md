@@ -4,7 +4,7 @@
 - 💻 Working on personal projects;
 - 🧡 Voluntering as Frontend Developer at <a href="https://www.crowdfrica.org"><strong>Crowdfrica</strong>;
 - 🌱 Currently learning JavaScript and React;
-- ⚡ Fun fact: I'm passionate about nature, technology, arts, cooking and travelling.
+- ⚡ Fun fact: I'm passionate about nature, technology, arts, k-dramas, cooking and travelling.
  <div>
   <a href="https://github.com/flaviahotts">
   <img height="170em" width= "400" src="https://github-readme-stats.vercel.app/api?username=flaviahotts&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>

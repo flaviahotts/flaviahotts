@@ -1,6 +1,5 @@
 ### Hi there, I'm Flavia 👋
 
-
 - 💻 Working on personal projects;
 - 🌱 Currently learning JavaScript/React and UX/UI Design;
 - ⚡ Fun fact: I'm passionate about nature, technology, arts, k-dramas, cooking and travelling.

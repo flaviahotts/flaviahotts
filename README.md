@@ -2,7 +2,7 @@
 
 
 - 💻 Working on personal projects;
-- 🌱 Currently learning JavaScript and React;
+- 🌱 Currently learning JavaScript/React and UX/UI Design;
 - ⚡ Fun fact: I'm passionate about nature, technology, arts, k-dramas, cooking and travelling.
  <div>
   <a href="https://github.com/flaviahotts">
